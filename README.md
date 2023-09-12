@@ -48,7 +48,7 @@ To identify the variables which are strong indicators of default and provide ins
 
 
 ## Contact
-Created by [@bshivagunde] - feel free to contact me!
+Created by [@bshivagunde](https://github.com/bshivagunde) - feel free to contact me!
 
 
 <!-- Optional -->
